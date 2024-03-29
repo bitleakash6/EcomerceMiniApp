@@ -8,7 +8,7 @@
 
 MiniEcommerce is a ReactJS web application designed to simulate the basic functionalities of an e-commerce platform. By leveraging ReactJS and integrating API calls to fetch product data dynamically, MiniEcommerce offers users a seamless shopping experience. This project serves as a practical exercise for developers to understand and implement key features of e-commerce platforms, including product listing, cart management, and dynamic data loading.
 
-<img src="">
+<img src="https://github.com/bitleakash6/EcomerceMiniApp/blob/main/miniEc.png">
 
 ---
 
